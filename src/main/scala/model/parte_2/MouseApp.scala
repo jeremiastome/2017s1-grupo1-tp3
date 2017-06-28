@@ -1,4 +1,4 @@
-package model
+package model.parte_2
 
 import javafx.application.Application
 import javafx.scene.canvas.Canvas
