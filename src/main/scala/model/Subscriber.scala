@@ -21,3 +21,4 @@ trait Subscriber[-T] {
     */
   def onComplete(): Unit
 }
+
